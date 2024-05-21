@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ArshadKhan-007
-- 👀 I’m interested in ... Artificial Intelligence, Machine Learning and Full Stack Development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...  Machine Learning and Blockchain
 - 📫 How to reach me ... Here is my E-mail:- Arshadkhan627@outlook.com
 - 😄 Pronouns: ..."Be Yourself"
 - ⚡ Fun fact: ...
