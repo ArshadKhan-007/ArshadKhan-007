@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArshadKhan-007
-- 👀 I’m interested in ...  Machine Learning and Blockchain
+- 👀 I’m interested in ...  Software Development and DeveOPs.
 - 📫 How to reach me ... Here is my E-mail:- Arshadkhan627@outlook.com
 - 😄 Pronouns: ..."Be Yourself"
 - ⚡ Fun fact: ...
