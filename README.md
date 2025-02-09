@@ -2,11 +2,11 @@
 
 🚀Passionate about building scalable applications and optimizing workflows.
 
-  Dedicated to designing efficient and impactful solutions.
+ 🚀 Dedicated to designing efficient and impactful solutions.
 
-  Diving into DevOps and cloud computing to streamline deployments and automation.
+  🚀Diving into DevOps and cloud computing to streamline deployments and automation.
 
-  Exploring AI and ML to understand how models work and how to code them.
+  🚀Exploring AI and ML to understand how models work and how to code them.
 
 📫 Reach me at: Arshadkhan627@outlook.com
 
