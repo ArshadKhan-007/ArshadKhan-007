@@ -1,15 +1,15 @@
-- 👋 Hi, I’m Arshad Khan
-- 👀 I am interested in building my career as a Python developer, focusing on developing robust and scalable applications. Alongside my passion for Python development, I am highly excited about the DevOps field and its role in optimizing workflows and deployments.
+👋 Hi, I’m Arshad Khan
 
-- With the rapid advancements in AI/ML and data science, I am also exploring these areas to gain exposure to how machine learning models work and how to code algorithms for AI and data science. My goal is to understand and implement ML and data science concepts while leveraging Python to contribute to innovative solutions in these domains.
+🚀Passionate about building scalable applications and optimizing workflows.
 
-- Additionally, I am familiar with frontend technologies like HTML, CSS, JavaScript, and React.js, having worked on several projects that enhanced my skills in creating interactive and user-friendly web applications.
+  Dedicated to designing efficient and impactful solutions.
 
-- 📫 How to reach me ... Here is my E-mail:- Arshadkhan627@outlook.com
-- 😄 Pronouns: ..."Be Yourself"
-- ⚡ Fun fact: ...
+  Diving into DevOps and cloud computing to streamline deployments and automation.
 
-<!---
-ArshadKhan-007/ArshadKhan-007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  Exploring AI and ML to understand how models work and how to code them.
+
+📫 Reach me at: Arshadkhan627@outlook.com
+
+😄 Pronouns: "Be Yourself"
+
+⚡ Fun fact: Always curious about the ‘why’ behind tech—because learning never stops!
