@@ -1,18 +1,12 @@
 👋 Hi, I’m Arshad Khan
 
-🚀Passionate about building scalable applications and optimizing workflows.
+🚀 Passionate about Cloud Computing & DevOps Engineering
 
- 🚀 Dedicated to designing efficient and impactful solutions.
+🚀 Skilled in building scalable, reliable, and automated infrastructures
 
-  🚀Diving into DevOps and cloud computing to streamline deployments and automation.
-
-  🚀Exploring AI and ML to understand how models work and how to code them.
+🚀 Dedicated to streamlining deployments & optimizing workflows
 
 📫 Reach me at: Arshadkhan627@outlook.com
-
-😄 Pronouns: "Be Yourself"
-
-⚡ Fun fact: Always curious about the ‘why’ behind tech—because learning never stops!
 
 
 
