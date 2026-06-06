@@ -1,94 +1,126 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Arshad Ahmad Khan</h1>
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=38&duration=80&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=Arshad+Ahmad+Khan)](https://git.io/typing-svg)
+<h3 align="center">
+☁️ Cloud & DevOps Engineer | AWS • Kubernetes • Automation
+</h3>
 
-### ▸ Cloud & DevOps Engineer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Building+Scalable+Infrastructure;Automating+Cloud+Workflows;Passionate+About+Cloud+Native+Technologies" />
+</p>
 
-*Building infra · Automating pipelines · Shipping containerized systems*
-
-![](https://komarev.com/ghpvc/?username=ArshadKhan-007&color=00d4aa&style=flat-square&label=Profile+Views)
-
-</div>
-
----
-
-## 📡 About Me
-
-```yaml
-name      : Arshad Ahmad Khan
-role      : Cloud & DevOps Engineer
-location  : Bengaluru, IN
-email     : arshadkhan627@outlook.com
-exploring : [GitOps, Helm, Cloud-native CI/CD]
-```
+<p align="center">
+  <a href="mailto:ArshadKhan627@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/arshad-ahmad-khan-0x1">
+    <img src="https://img.shields.io/badge/LinkedIn-Arshad_Ahmad_Khan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ArshadKhan-007">
+    <img src="https://img.shields.io/badge/GitHub-ArshadKhan--007-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## ☁️ Cloud & Infrastructure
+## 🚀 About Me
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+☁️ Cloud & DevOps Engineer passionate about designing, automating, and managing modern cloud infrastructure.
 
-## 🐳 Containers & Orchestration
+🚀 Working across AWS, Docker, Kubernetes, Linux, and automation tools to build scalable, reliable, and production-ready environments.
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+📊 Interested in observability, monitoring, infrastructure reliability, and cloud-native technologies.
 
-## ⚙️ CI/CD & Monitoring
+🤖 Continuously learning, building hands-on projects, and exploring how AI can enhance modern DevOps workflows.
 
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-
-## 🧑‍💻 Languages & Frameworks
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-
-## 🛠️ Tools
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+💡 **Learn → Build → Break → Fix → Automate → Repeat**
 
 ---
 
-## 🏆 GitHub Trophies
+## ⚡ Tech Arsenal
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArshadKhan-007&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,python,bash,git,github,prometheus,grafana,vscode" />
+</p>
+
+### ☁️ Cloud & AWS
+
+<p align="center">
+
+`EC2` • `S3` • `IAM` • `VPC` • `RDS` • `DynamoDB`
+
+`Lambda` • `ECS` • `ECR` • `SNS`
+
+</p>
+
+### 🚀 Containers & Orchestration
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+
+</p>
+
+### 🔧 DevOps & Automation
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
+
+</p>
+
+### 📊 Monitoring & Observability
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+
+</p>
+
+### 🐧 System Administration
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge" />
+
+</p>
+
+### 💻 Programming
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArshadKhan-007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00d4aa&icon_color=7c6aff&text_color=e0e6f0" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshadKhan-007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00d4aa&text_color=e0e6f0" />
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ArshadKhan-007&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshadKhan-007&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArshadKhan-007&theme=tokyonight&hide_border=true&background=0a0e1a&ring=00d4aa&fire=ff6b6b&currStreakLabel=00d4aa" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ArshadKhan-007&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🔗 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshad-ahmad-khan-0x1)
-[![Email](https://img.shields.io/badge/Email-00D4AA?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:arshadkhan627@outlook.com)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+### ☁️ Building Cloud Infrastructure • Automating Workflows • Growing Every Day
+
 </div>
