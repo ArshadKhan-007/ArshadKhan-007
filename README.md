@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Building+Scalable+Infrastructure;Automating+Cloud+Workflows;Passionate+About+Cloud+Native+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Building+Scalable+Infrastructure;Automating+Cloud+Workflows;Monitoring+%7C+Reliability+%7C+Automation" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 ☁️ Cloud & DevOps Engineer passionate about designing, automating, and managing modern cloud infrastructure.
 
-🚀 Working across AWS, Docker, Kubernetes, Linux, and automation tools to build scalable, reliable, and production-ready environments.
+🚀 Working across AWS, Docker, Kubernetes, Terraform, Ansible, Linux, and automation tools to build scalable, reliable, and production-ready environments.
 
 📊 Interested in observability, monitoring, infrastructure reliability, and cloud-native technologies.
 
@@ -39,7 +39,7 @@
 ## ⚡ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,python,bash,git,github,prometheus,grafana,vscode" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,linux,python,bash,git,github,prometheus,grafana,vscode" />
 </p>
 
 ### ☁️ Cloud & AWS
@@ -65,6 +65,8 @@
 
 <p align="center">
 
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge" />
